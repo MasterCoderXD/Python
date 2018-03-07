@@ -6,7 +6,7 @@ def calculate():
   z =int(x);
   za=int(y);
   command=input("which function \n m=multiply\n d=divide \n s=subtract \n a=addition: ");
-   if command=="m":
+  if command=="m":
     d=int(z*za);
     print(d);
 
